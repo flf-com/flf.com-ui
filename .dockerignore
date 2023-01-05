@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# Include only below
+!src
+!index.html
+!*.json
+!*.js
